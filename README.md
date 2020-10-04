@@ -14,7 +14,7 @@ Feel free to connect with me here. I am always open to feedback and collaboratin
 <a href="https://linkedin.com/in/kyleburda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kyleburda" height="30" width="40" /></a>
 </p>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
