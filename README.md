@@ -3,12 +3,11 @@
         <img src="https://komarev.com/ghpvc/?username=kylejb&label=Views&color=a0459e&style=plastic" alt="kylejb" />
     </div>
     <h1>Welcome! I'm Kyle Burda.</h1>
-    <h4>I'm a software engineer with a passion for solving complex problems through analytics.</h4>
 </div>
 
-<h3 align="center">Projects</h3>
+<h3 align="center">About Me</h3>
 
-- 🌱 I’m currently learning **Django** & **Python**
+- 🌱 I’m currently learning **Django** & **Python**.
 
 - 👋 Feel free to reach out; I am always open to feedback and opportunities to collaborate on projects.
 
