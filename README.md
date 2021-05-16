@@ -1,17 +1,28 @@
-<div align="center">
-    <div>
-        <img src="https://komarev.com/ghpvc/?username=kylejb&label=Views&color=a0459e&style=plastic" alt="kylejb" />
-    </div>
-    <h1>Welcome! I'm Kyle Burda.</h1>
+<div align="right">
+
+![GitHub User's stars](https://img.shields.io/github/stars/kylejb?style=social)
+
 </div>
 
-<h3 align="center">About Me</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Django** & **Python**.
+# Make yourself at `~`
 
-- 👋 Feel free to reach out; I am always open to feedback and opportunities to collaborate on projects.
+</div>
 
-<h3 align="center">Blog Posts</h3>
+<div class="contact" align="center">
+
+<a href="https://twitter.com/kyleburda"> ![Twitter Logo](https://img.shields.io/badge/@kyleburda-informational?style=social&logo=twitter&logoWidth=40&url=https%3A%2F%2Fwww.twitter.com%2Fkyleburda) </a><a href="https://dev.to/kylejb"> ![Dev.to Logo](https://img.shields.io/badge/@kylejb-informational?style=social&logo=dev.to&logoWidth=40)</a><a href="https://www.linkedin.com/in/kyleburda"> ![LinkedIn Logo](https://img.shields.io/badge/kyleburda-informational?style=social&logo=linkedin&logoWidth=40&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyleburda) </a><a href="https://stackoverflow.com/users/kylejb"> ![StackOverflow Logo](https://img.shields.io/badge/kylejb-informational?style=social&logo=stackoverflow&logoWidth=40&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2Fkylejb)</a>
+
+</div>
+
+### `$ whoami | xargs ls`:
+```code
+>>>  🌱 I’m currently learning TypeScript, FastAPI, and Python.
+
+>>>  👋 Feel free to reach out; I am always open to feedback and to collaborate on projects.
+```
+### `$ ls kylejb/blogs`:
 
 <!-- BLOG-POST-LIST:START -->
 - [A key difference between .then() and async-await in JavaScript](https://dev.to/kylejb/a-key-difference-between-then-and-async-await-in-javascript-53e9)
@@ -19,21 +30,25 @@
 - [How should you secure your API token?](https://dev.to/kylejb/how-should-you-secure-your-api-token-2odl)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Languages and Frameworks</h3>
-
-<p class="languages" align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
-
-<p class="frameworks" align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>  <a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>  <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a></p>
-
-
-<h3 align="center">Tools</h3>
-
-<p align="center"><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>  <a href="https://travis-ci.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></p>
-
-<br><br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylejb&layout=compact" alt="kylejb"/></p>
-
 ---
 
-<h3 align="center">Connect with me</h3>
+<div align="center">
 
-<p align="center"><a href="https://dev.to/kylejb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kylejb" height="30" width="40" /></a><a href="https://twitter.com/kyleburda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyleburda" height="30" width="40" /></a><a href="https://linkedin.com/in/kylejb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kylejb" height="30" width="40" /></a><a href="https://stackoverflow.com/users/kylejb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kylejb" height="30" width="40" /></a></p>
+#### Languages and Tools
+
+
+![](https://img.shields.io/badge/code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-FastAPI-informational?style=flat-square&logo=FastAPI&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Django-informational?style=flat-square&logo=Django&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Ruby-informational?style=flat-square&logo=Ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Bash/Zsh-informational?style=flat-square&logo=Bash/Zsh&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-SQL-informational?style=flat-square&logo=SQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-React-informational?style=flat-square&logo=React&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Express-informational?style=flat-square&logo=Express&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Rails-informational?style=flat-square&logo=Rails&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-Jest-informational?style=flat-square&logo=Jest&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-pytest-informational?style=flat-square&logo=pytest&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-RSpec-informational?style=flat-square&logo=RSpec&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-SQLite3-informational?style=flat-square&logo=SQLite3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-GraphQL-informational?style=flat-square&logo=GraphQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-AWS-informational?style=flat-square&logo=AWS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-PostGIS-informational?style=flat-square&logo=PostGIS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/tools-nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-CI%2FCD-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+
+<br/>
+
+#### GitHub Stats
+
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=kylejb&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&line_height=24&hide_title=true&border_radius=20&theme=vue-dark) ![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejb&layout=compact&&langs_count=10&card_width=445&hide_title=true&border_radius=20&theme=vue-dark)
+
+</div>
+
+<br/>
+
+```code
+>>>  exit()
+```
