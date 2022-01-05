@@ -17,14 +17,17 @@
 </div>
 
 ### `$ whoami | xargs ls`:
+
 ```code
->>>  🌱 I’m currently learning TypeScript, NestJS, and FastAPI.
+>>>  🌱 I’m currently learning FastAPI and Go.
 
 >>>  👋 Feel free to reach out; I am always open to feedback and to collaborate on projects.
 ```
+
 ### `$ ls kylejb/blogs`:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [A key difference between .then&lpar;&rpar; and async-await in JavaScript](https://dev.to/kylejb/a-key-difference-between-then-and-async-await-in-javascript-53e9)
 - [An Introduction to Computer Networking for Web Developers](https://dev.to/kylejb/an-introduction-to-computer-networking-for-web-developers-41lg)
 - [How should you secure your API token?](https://dev.to/kylejb/how-should-you-secure-your-api-token-2odl)
