@@ -59,19 +59,17 @@
 
 </div>
 
-<br />
 <br/>
 
 ### `$ git history`:
 
 <div align="center">
 
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=kylejb&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&line_height=24&hide_title=true&border_radius=20&theme=vue-dark)
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejb&layout=compact&&langs_count=10&card_width=445&hide_title=true&border_radius=20&theme=vue-dark)
+![GitHub Repo Activity](https://github-readme-stats.vercel.app/api?username=kylejb&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&line_height=28&hide_title=true&border_radius=20&theme=vue-dark&width=100)
+![GitHub Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejb&layout=compact&&langs_count=10&hide_title=true&border_radius=20&card_width=254&theme=vue-dark)
 
 </div>
 
-<br/>
 <br/>
 
 ### `$ exit()`
